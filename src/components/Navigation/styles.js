@@ -99,6 +99,7 @@ export const TextButton = styled.button`
   margin-right: -0.25rem;
   border: 0;
   background-color: transparent;
+  border: none;
 
   img {
     width: 0.6rem;
@@ -110,7 +111,7 @@ export const MenuButton = styled.button`
   width: 1.2rem;
   height: 1.2rem;
   background-color: transparent;
-
+  border: none;
   img {
     width: 1.2rem;
     height: 1.2rem;

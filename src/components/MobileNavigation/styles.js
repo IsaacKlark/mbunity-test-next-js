@@ -35,6 +35,7 @@ export const Logo = styled.p`
 
 export const CloseButton = styled.button`
   background-color: transparent;
+  border: none;
   
   img {
     width: 1.2rem;
@@ -75,6 +76,7 @@ export const TextButton = styled.button`
   column-gap: 0.35rem;
   margin-right: -0.25rem;
   background-color: transparent;
+  border: none;
 
   svg {
     width: 0.6rem;
